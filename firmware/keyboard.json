@@ -6,6 +6,7 @@
     "diode_direction": "COL2ROW",
     "features": {
         "bootmagic": false,
+        "caps_word": true,
         "command": false,
         "console": false,
         "extrakey": true,
@@ -17,7 +18,7 @@
         "cols": ["GP20", "GP23", "GP21", "GP7", "GP8", "GP9"],
         "rows": ["GP29","GP28", "GP27", "GP26", "GP22", "GP0", "GP1", "GP4", "GP5", "GP6"]
     },
-    "url": "",
+    "url": "https://github.com/tuxedocurly/mantaray_keyboard",
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x0000",
