@@ -1,3 +1,4 @@
 #define I2C1_SCL_PIN GP3
 #define I2C1_SDA_PIN GP2
 #define OLED_BRIGHTNESS 128
+#define TAPPING_TERM 200
