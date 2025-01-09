@@ -109,13 +109,6 @@ The keyboard should reboot, and the firmware should now be flashed! Enjoy your n
 
 If you liked this project and built a board, please consider buying me a coffee. Your generous contributions are what allow me to continue creating and sharing cool open source projects like this one!
 
-<style>.pp-S29DUSN2UKD4N{text-align:center;border:none;border-radius:0.25rem;min-width:11.625rem;padding:0 2rem;height:2.625rem;font-weight:bold;background-color:#FFD140;color:#000000;font-family:"Helvetica Neue",Arial,sans-serif;font-size:1rem;line-height:1.25rem;cursor:pointer;}</style>
-<form action="https://www.paypal.com/ncp/payment/S29DUSN2UKD4N" method="post" target="_top" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
-  <input class="pp-S29DUSN2UKD4N" type="submit" value="Buy Me a Coffee ☕" />
-  <img src=https://www.paypalobjects.com/images/Debit_Credit_APM.svg alt="cards" />
-  <section> Powered by <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg" alt="paypal" style="height:0.875rem;vertical-align:middle;"/></section>
-</form>
-
 ## Firmware
 There are two options for getting the firmware file:
 1. download the pre-build firmware file from this repository (mantaray2040_default.u2f)
