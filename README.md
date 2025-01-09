@@ -26,6 +26,16 @@ Keyboard Creator and Maintainer: [Colton Hawkins AKA TuxedoMakes](https://youtub
     - Alternatively, you can use surface mount diodes ([Amazon](https://amzn.to/3WbPPeA))
   - 1 x 3D printed case (STL files available here, or via [MakerWorld]())
 
+**Step 1: Solder Diodes**
+
+Solder all the through hole or surface-mount diodes to the board. Note the direction of the diodes carefully, as they have a polarity (the black stripe should face the square contact on the PCB).
+
+If you deside to use through-hole diodes like I did, be sure to solder the diodes from the  back side of the PCB to avoid globs of solder forming on the front side - the front of the PCB needs to be flat in order for the choc switches to sit flush when installed later.Also, be sure to trim the excess wire from the other side of the board to keep things as tidy and low-profile as possible. A good pair of nippers comes in handy here.
+
+**Step 2: Solder Hotswap Sockets**
+
+Next, go ahead and place the hotswap sockets on the board and solder them in. This step is slightly tedious, but pretty straight forward.
+
 ## Firmware
 There are two options for getting the firmware file:
 1. download the pre-build firmware file from this repository (mantaray2040_default.u2f)
