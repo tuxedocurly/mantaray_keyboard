@@ -1,4 +1,4 @@
-# Mantaray - An affordable ergonomic keyboard with premium functionality
+# Mantaray -  A ZSA Voyager Inspired Ergonomic Mechanical Keyboard
 *The Mantaray2040 is a ZSA Voyager inspired low-profile, ortholinear, column staggered ergonomic mechanical keyboard. The design is intended to provide a low-cost, easy to build alternative to the ZSA Voyager for users who aren't looking for a split keyboard design.*
 
 Keyboard Creator and Maintainer: [Colton Hawkins AKA TuxedoMakes](https://youtube.com/@TuxedoMakes)
@@ -48,7 +48,7 @@ Even a small coffee-sized contribution goes a long way in fueling my passion for
     - 1 x Reset Button ([Amazon](https://amzn.to/3Pt3eer))
     - 1 x Syringe of Solder Flux ([Amazon](https://amzn.to/4fXnPT4))
     - 8 x M2x3x3.2mm Heat Set Inserts ([Amazon](https://amzn.to/40bUWMX))
-      - While the inserts are technically optional, I highly recommend using them. They're awsesome.
+      - While the inserts are technically optional, I highly recommend using them. They're awesome.
 
 **Step 1: Solder Diodes**
 
