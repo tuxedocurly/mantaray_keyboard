@@ -1,11 +1,11 @@
 # Mantaray - A ZSA Voyager Inspired Ergonomic Mechanical Keyboard
-*The Mantaray2040 is a ZSA Voyager inspired low-profile, ortholinear, column staggered ergonomic mechanical keyboard. The design is intended to provide a low-cost, easy to build alternative to the ZSA Voyager for users who aren't looking for a split keyboard design.*
+*The Mantaray is a ZSA Voyager inspired low-profile, ortholinear, column staggered ergonomic mechanical keyboard. The design is intended to provide a low-cost, easy to build alternative to the ZSA Voyager for users who aren't looking for a split keyboard design.*
 
 Keyboard Creator and Maintainer: [Colton Hawkins AKA TuxedoMakes](https://youtube.com/@TuxedoMakes)
 
-![mantaray2040](https://i.imgur.com/LBJzdiN.jpeg)
+![mantaray](https://i.imgur.com/LBJzdiN.jpeg)
 
-![mantaray2040](https://i.imgur.com/M4AyEyV.jpeg)
+![mantaray](https://i.imgur.com/M4AyEyV.jpeg)
 
 *Key features:*
 - PCB is compatible with any pro-micro board
@@ -117,7 +117,7 @@ There are two options for getting the firmware file:
 **How to build the firmware (after setting up the build environment):**
 1. Set up your build environment according to the QMK documentation for your OS
 
-2. Clone the mantaray2040 repo, unzip the file, and add it to you qmk_firmware/keyboards folder
+2. Clone the mantaray repo, unzip the file, and add it to you qmk_firmware/keyboards folder
 
 3. Run the build command. Below is an example for linux:
 
