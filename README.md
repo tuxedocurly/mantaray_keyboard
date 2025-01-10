@@ -1,11 +1,11 @@
-# Mantaray - A ZSA Voyager Inspired Ergonomic Mechanical Keyboard
-*The Mantaray is a ZSA Voyager inspired low-profile, ortholinear, column staggered ergonomic mechanical keyboard. The design is intended to provide a low-cost, easy to build alternative to the ZSA Voyager for users who aren't looking for a split keyboard design.*
+# mantaray2040
+*The Mantaray2040 is a ZSA Voyager inspired low-profile, ortholinear, column staggered ergonomic mechanical keyboard. The design is intended to provide a low-cost, easy to build alternative to the ZSA Voyager for users who aren't looking for a split keyboard design.*
 
 Keyboard Creator and Maintainer: [Colton Hawkins AKA TuxedoMakes](https://youtube.com/@TuxedoMakes)
 
-![mantaray](https://i.imgur.com/LBJzdiN.jpeg)
+![mantaray2040](https://i.imgur.com/LBJzdiN.jpeg)
 
-![mantaray](https://i.imgur.com/M4AyEyV.jpeg)
+![mantaray2040](https://i.imgur.com/M4AyEyV.jpeg)
 
 *Key features:*
 - PCB is compatible with any pro-micro board
@@ -13,6 +13,22 @@ Keyboard Creator and Maintainer: [Colton Hawkins AKA TuxedoMakes](https://youtub
 - USB-C
 - Kailh choc v1 switch compatible
 - Ultra thin, ultra portable
+
+## <img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="25"/> Support This Project (and Fuel Open Source!)
+
+This project is a labor of love, built during my spare time. If you've found this keyboard design helpful, interesting, or just plain awesome, consider checking out [my shop](https://buymeacoffee.com/tuxedomakes/extras) where I sell PCBs and parts to make my projects, or buy me a coffee!
+
+**Your support helps me:**
+
+*   Dedicate more time to improve this design.
+*   Experiment with new features and ideas.
+*   Kickstart other open-source projects that you might love.
+
+<a href="https://buymeacoffee.com/tuxedomakes"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=tuxedomakes&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+Even a small coffee-sized contribution goes a long way in fueling my passion for open source. If you use the shop, you'll get a useful part for your next project, plus my eternal gratitude!
+
+**Thank you for being awesome!**
 
 ## Build Guide
 *Video guide available on my [YouTube channel](https://www.youtube.com/@TuxedoMakes).*
@@ -105,10 +121,6 @@ Hold down the reset button as you plug the keyboard into your computer. Release 
 
 The keyboard should reboot, and the firmware should now be flashed! Enjoy your new ergonomic keyboard!
 
-## ❤️ Support Me ❤️
-
-If you liked this project, please consider [buying me a coffee ☕](https://www.paypal.com/ncp/payment/S29DUSN2UKD4N). Your generous contributions are what allow me to continue creating and sharing cool open source projects like this one!
-
 ## Firmware
 There are two options for getting the firmware file:
 1. download the pre-build firmware file from this repository (mantaray2040_default.u2f)
@@ -117,7 +129,7 @@ There are two options for getting the firmware file:
 **How to build the firmware (after setting up the build environment):**
 1. Set up your build environment according to the QMK documentation for your OS
 
-2. Clone the mantaray repo, unzip the file, and add it to you qmk_firmware/keyboards folder
+2. Clone the mantaray2040 repo, unzip the file, and add it to you qmk_firmware/keyboards folder
 
 3. Run the build command. Below is an example for linux:
 
@@ -140,3 +152,7 @@ Enter the bootloader in 2 ways:
 
 * **Physical reset button**: Double tap the "Reset" button located on your microcontroller. Alternatively, if you've installed the optional reset button on the front of the PCB, double tap that.
 * **Keycode in layout**: Press the key mapped to `QK_BOOT` (top right key on layer 2)
+
+## ❤️ Support Me ❤️
+
+If you liked this project, please consider checking out [my shop](https://buymeacoffee.com/tuxedomakes/extras) or [buying me a coffee ☕](https://buymeacoffee.com/tuxedomakes).
