@@ -1,4 +1,4 @@
-# mantaray2040
+# Mantaray - A ZSA Voyager Inspired Ergonomic Mechanical Keyboard
 *The Mantaray2040 is a ZSA Voyager inspired low-profile, ortholinear, column staggered ergonomic mechanical keyboard. The design is intended to provide a low-cost, easy to build alternative to the ZSA Voyager for users who aren't looking for a split keyboard design.*
 
 Keyboard Creator and Maintainer: [Colton Hawkins AKA TuxedoMakes](https://youtube.com/@TuxedoMakes)
@@ -105,9 +105,9 @@ Hold down the reset button as you plug the keyboard into your computer. Release 
 
 The keyboard should reboot, and the firmware should now be flashed! Enjoy your new ergonomic keyboard!
 
-## Support Me
+## ❤️ Support Me ❤️
 
-If you liked this project and built a board, please consider buying me a coffee. Your generous contributions are what allow me to continue creating and sharing cool open source projects like this one!
+If you liked this project, please consider [buying me a coffee ☕](https://www.paypal.com/ncp/payment/S29DUSN2UKD4N). Your generous contributions are what allow me to continue creating and sharing cool open source projects like this one!
 
 ## Firmware
 There are two options for getting the firmware file:
