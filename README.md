@@ -3,9 +3,10 @@
 
 Keyboard Creator and Maintainer: [Colton Hawkins AKA TuxedoMakes](https://youtube.com/@TuxedoMakes)
 
-![mantaray2040](https://i.imgur.com/LBJzdiN.jpeg)
+![mantaray blue and red](https://github.com/user-attachments/assets/a529b1cd-dc40-4ec1-89aa-4ed37819612f)
 
-![mantaray2040](https://i.imgur.com/M4AyEyV.jpeg)
+![PXL_20250112_193250812](https://github.com/user-attachments/assets/bdc39298-31d2-4579-9593-ffe6afcdeefb)
+
 
 *Key features:*
 - PCB is compatible with any pro-micro board
@@ -53,22 +54,23 @@ Even a small coffee-sized contribution goes a long way in fueling my passion for
 **Step 1: Solder Diodes**
 
 Solder all the through hole or surface-mount diodes to the board. Note the direction of the diodes carefully, as they have a polarity (the black stripe should face the square contact on the PCB).
-![soldering diodes](https://i.imgur.com/PUxqXBc.png)
 
-If you deside to use through-hole diodes like I did, be sure to solder the diodes from the  back side of the PCB to avoid globs of solder forming on the front side - the front of the PCB needs to be flat in order for the choc switches to sit flush when installed later.Also, be sure to trim the excess wire from the other side of the board to keep things as tidy and low-profile as possible. A good pair of nippers comes in handy here.
+![Diode Placement](https://github.com/user-attachments/assets/a6efe06b-1570-4cf0-95db-6eb436ecb63f)
+
+If you decide to use through-hole diodes like I did, be sure to solder the diodes from the  back side of the PCB to avoid globs of solder forming on the front side - the front of the PCB needs to be flat in order for the choc switches to sit flush when installed later.Also, be sure to trim the excess wire from the other side of the board to keep things as tidy and low-profile as possible. A good pair of nippers comes in handy here.
 
 This is how the diodes should look after soldering
-![pcb after soldering diodes](https://i.imgur.com/gPM2L5K.png)
+![diode_solder](https://github.com/user-attachments/assets/d3d3f572-a6b3-40e6-8724-1c0cec577d54)
 
 This is how the front of the board should look after snipping off the excess diode legs to make them flush with the PCB.
-![pcb front after snipping diode legs](https://i.imgur.com/1lCA1tc.png)
+![diode_snipped](https://github.com/user-attachments/assets/8b29630d-994d-40b7-afd7-616a1010b100)
 
 **Step 2: Solder Hotswap Sockets**
 
 Next, go ahead and place the hotswap sockets on the board and solder them in. This step is slightly tedious, but pretty straight forward.
 
 Here's how the back of the PCB should look once the hotswap sockets are installed.
-![pcb after hotswap socket install](https://i.imgur.com/BnFbTHR.png)
+![hotswap_sockets](https://github.com/user-attachments/assets/ddb2e2c5-b924-47a3-9d69-25ec44674ac7)
 
 **Step 3: Solder Controller to PCB**
 
@@ -79,16 +81,15 @@ With that out of the way, follow bakingpy's [guide](https://imgur.com/a/how-to-s
 Once that's done, install the RP2040 Pro Micro on the bottom side of the keyboard PCB. The IC and reset buttons should be facing away from the PCB, allowing the microcontroller to sit nearly flush with the PCB. Trim the excess wire from the pin headers, and you're done with this step.
 
 Here's how the final result should look:
-![rp2040 controller after soldering](https://i.imgur.com/ZBR2TpW.png)
-![rp2040 controller after soldering](https://i.imgur.com/LFZeQd4.png)
+![promicro_soldered](https://github.com/user-attachments/assets/c55196bb-65da-4a99-b59d-7218cf4dec99)
+![promicro](https://github.com/user-attachments/assets/1b3c5b9c-f64c-4a23-8f65-d60cf14eb9df)
 
 **Step 4: Solder OLED Display**
 
 Time to install the display. Grab the 128x32 SSD1306 OLED and install it into the front of the pcb. The process is very similar to installing the controller to the PCB, but luckily we only have to deal with 4 pins this time. Follow bakingpy's [guide](https://imgur.com/a/how-to-solder-pro-micro-header-pins-like-badass-M9r3EW9) to install the 4 pin headers onto the front of the PCB, then add the OLED onto the headers and solder it into place. **Be sure to solder this as straight as posible, using the silkscreen lines on the front of the PCB as reference**. The display needs to be relatively straight in order to fit into its cutout in the top case later.
 
 Here's how the display should look just before soldering it to the headers.
-![oled display](https://i.imgur.com/t7UH1n0.png)
-
+![oled](https://github.com/user-attachments/assets/afe8fe9d-5820-4436-bf20-06eaf8efa736)
 
 **Step 5: (Optional) Install Front Reset Button**
 
@@ -113,7 +114,7 @@ Place the top case over the PCB. Pay attention to the cutout for the OLED displa
 **Step 7: Install Switches and Keycaps**
 
 Grab your Kailh Choc V1 switches and install them over the plate, into the hotswap sockets on the pcb. Watch for bent pins. Once all the switches are installed, go ahead and add your keycaps.
-![board with switches installed](https://i.imgur.com/Hu240bC.jpeg)
+![PXL_20250109_180317979](https://github.com/user-attachments/assets/e0e67303-9cf5-4d4d-b39c-639c156300bf)
 
 **Step 8: Install the Firmware**
 
