@@ -102,10 +102,10 @@ See the image above for a reference of the reset button install location.
 **Step 6: The Case**
 
 Print yourself a case using the files in this repo, or by grabbing them on [MakerWorld](https://makerworld.com/en/models/972433#profileId-944453).
+![PXL_20250109_202859032](https://github.com/user-attachments/assets/9643e677-b60c-4c29-ab6f-15d350bfb17c)
 
 Install the heat set inserts into each of the posts with holes on the bottom plate. Note that there are 4 posts that do not have holes for inserts. Those are supports for the PCB, and can be ignored.
-![heat set inserts](https://i.imgur.com/0ySrO3Q.jpeg)
-
+![PXL_20250109_202824409](https://github.com/user-attachments/assets/c0f55b61-fee6-4fd1-b491-8f6372d1cfee)
 
 Screw the PCB into the case using 8 x M2x5mm tapered head machine screws.
 
