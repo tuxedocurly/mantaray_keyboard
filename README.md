@@ -156,4 +156,4 @@ Enter the bootloader in 2 ways:
 
 ## ❤️ Support Me ❤️
 
-If you liked this project, please consider checking out [my shop](https://buymeacoffee.com/tuxedomakes/extras) or [buying me a coffee ☕](https://buymeacoffee.com/tuxedomakes).
+If you liked this project, please consider checking out [my shop](https://ko-fi.com/tuxedomakes/shop) or [buying me a coffee ☕](https://ko-fi.com/tuxedomakes).
