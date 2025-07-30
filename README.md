@@ -154,6 +154,9 @@ Enter the bootloader in 2 ways:
 * **Physical reset button**: Double tap the "Reset" button located on your microcontroller. Alternatively, if you've installed the optional reset button on the front of the PCB, double tap that.
 * **Keycode in layout**: Press the key mapped to `QK_BOOT` (top right key on layer 2)
 
+## LICENSE
+As per QMK's licensing requirements, the firmware for the Mantaray keyboard is released under GPLv3. Hardware design files, including electronics and mechanical files, are released under OHL CERN v2-S. Check the respective directories for full license text.
+
 ## ❤️ Support Me ❤️
 
 If you liked this project, please consider checking out [my shop](https://ko-fi.com/tuxedomakes/shop) or [buying me a coffee ☕](https://ko-fi.com/tuxedomakes).
